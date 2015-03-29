@@ -1,0 +1,408 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bo",
+				"bolder"
+			],
+			[
+				"p",
+				"p	Tag"
+			],
+			[
+				"paddin",
+				"padding-bottom"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"Br",
+				"page-break-before"
+			],
+			[
+				"t",
+				"text-align"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"m",
+				"max-width"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"b",
+				"body	Tag"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"h",
+				"head	Tag"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/Sam/Desktop/PORTFOLIA/TOPLIST/project One.html",
+			"settings":
+			{
+				"buffer_size": 7123,
+				"line_ending": "Windows",
+				"name": "<style>"
+			}
+		},
+		{
+			"file": "/C/Users/Sam/Desktop/PlayHTML/play.html",
+			"settings":
+			{
+				"buffer_size": 7123,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Sam/Desktop/PORTFOLIA/TOPLIST/project One.css",
+			"settings":
+			{
+				"buffer_size": 1186,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/C/Users/Sam/Desktop/PlayHTML/Play.css",
+			"settings":
+			{
+				"buffer_size": 1183,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 409.0,
+		"selected_items":
+		[
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"p",
+				"Preferences: Browse Packages"
+			]
+		],
+		"width": 549.0
+	},
+	"console":
+	{
+		"height": 162.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Sam/Desktop/PORTFOLIA/bootstrap-3.3.4-dist/css"
+	],
+	"file_history":
+	[
+		"/C/Users/Sam/Desktop/PORTFOLIA/TOPLIST/project One.html",
+		"/C/Users/Sam/Desktop/PORTFOLIA/framework/css/main.css",
+		"/C/Users/Sam/Desktop/PORTFOLIA/framework/css/main2.css",
+		"/C/Users/Sam/Downloads/framework/test.html",
+		"/C/Users/Sam/Desktop/PORTFOLIA/framework/css/test.html",
+		"/C/Users/Sam/Downloads/framework/sa",
+		"/C/Users/Sam/Desktop/PORTFOLIA/TOPLIST/style.css",
+		"/C/Users/Sam/Desktop/PORTFOLIA/TOPLIST/index.html",
+		"/C/Users/Sam/Downloads/css-demo/sam.css",
+		"/C/Users/Sam/Downloads/css-demo/app.html",
+		"/C/Users/Sam/Desktop/PORTFOLIA/TOPLIST/index1.html",
+		"/C/Users/Sam/AppData/Roaming/Sublime Text 3/Packages/User/sams1",
+		"/C/Users/Sam/Downloads/css-demo/style.css",
+		"/C/Users/Sam/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Sam/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/Sam/Desktop/PORTFOLIA/TOPLIST/project One.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7123,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								7123
+							]
+						],
+						"settings":
+						{
+							"auto_name": "<style>",
+							"history_list_is_closing": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3866.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Sam/Desktop/PlayHTML/play.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 7123,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7123,
+								7123
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3846.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 2,
+					"file": "/C/Users/Sam/Desktop/PORTFOLIA/TOPLIST/project One.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1186,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1183,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/C/Users/Sam/Desktop/PlayHTML/Play.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1183,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1183,
+								1183
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 706.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.58575310574,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "Project One.zip",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 63.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
