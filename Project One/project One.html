@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Samuels HTML</title>
+      <link rel="stylesheet" type="text/css" href="project%20One.css">
+  </head>
+
+<body>
+  <div>
+    <h2>Welcome to project 1</h2>
+      <br>
+  </div>
+      <div class="lesson">
+        <div class="concept-title">
+          <h1>WWW</h1><br>
+        </div>
+         <div class="concept-description">
+          <p>
+          Computer (Web Browser) > Servers > (Info transferred) HTTP Protocol> Computer
+          (Displays page on Browser)>>Internet(30Billion pages)
+        </p>
+      </div>
+    </div>
+  <div class="concept">
+    <div class="concept-title">
+        <h1>HTML</h1><br>
+    </div>
+    <div class="concept-description">
+      <p>
+      HTML stands for <em>Hypertext Markup Language</em>, it is a set of instructions one gives to a computer and refers to the text that you see on the webpage and what it looks like. Your HTML document will also contain references to other documents, 
+      images, videos, and links to other pages.
+      </p>
+   </div>
+  </div>
+  <div class="concept">
+    <div class="concept-title">
+      <h1>Tags and Elements</h1><br>
+    </div>
+      <div class="concept-description">
+        <p>
+        In HTML we create <b>elements</b> using opening and closing <b>tags</b> that give instructions on how to display or 
+      treat the text or information between the tags. 
+
+    <br>
+        HTML contains two types of Tags. The <b>inline tag</b> and the <b>block tag</b>. An inline 
+        tag such as "br" deals only with the line it is in and may not need a closing
+        tag. However a block tag such as "p" always needs a closing tag and creates an invisble 
+        box around its text or contents.
+    <br><br>
+        Some tags can contain something called an attribute. Attributes can give more complex instructions
+        such as links to other pages or pull images into  the page you are creating. An example
+        of this is the anchor tag "a," which can have the attribute "href." This attribute can link
+        to another<a href="http://www.udacity.com">page.</a>
+        You will see this in action if you click on the highlighted word page in this paragraph.
+    <br>
+    <br>
+        An img tag must have a src and alt attributes. 
+        When using the attribute for images "src" one must also provide  
+        a text response that will return if the link to an image is broken.
+        The text which is assigned to it, is called the alt text. 
+      </p>
+    </div>
+  </div>
+  <div class="concept">
+    <div class="concept-title">      
+      <h1>Computer Intelligence</h1>
+    </div>
+    <div class="concept-description">
+      <p>
+      In all of this one starts to realize the power and limitations of giving a computer instructions
+      through HTML. You quickly learn that computers could be considered dumb due to their lack
+      of interpretation skills.<em> Precision is key to good code.</em>
+      </p>
+    </div>
+  </div>
+  <div class="concept">
+    <div class="concept-title">
+        <h1>Webpage</h1><br>
+      </div>
+      <div class="concept-description">   
+        <p> 
+          A webpage uses HTML as its structure and CSS as its style along with JAVASCRIPT to manipulate these parts. A webpage can be broken down using     a Document Object Model (DOM), to be explained shortly or by visually       inspecting the page and breaking it down into segments or boxes.<br>
+        </p>
+      </div>
+    </div>
+    <div class="concept">
+      <div class="concept-title">
+        <h1>Document Object Model</h1>
+      </div>
+        <div class="concept-description">
+          <p>
+            An HTML document can be written out in a DOM. The Document Object Model (DOM). DOM is an application programming interface (API) for HTML.
+ 
+
+            It closely resembles the structure of the documents it models. 
+            In the DOM, documents have a logical
+            structure which is very much like a tree; to be more precise, it is like a "forest" or "grove", which can
+            contain more than one tree. However, the DOM
+            does not specify that documents must be <em>implemented</em> as a tree or a grove, nor does it specify how the relationships among objects be implemented. <em>
+            <b>The DOM is a logical model that may be implemented in any convenient manner.</b></em>
+          </p>
+        </div>
+       </div>
+    <div class="concept">
+      <div class="concept-title">
+        <h1>Developer Tools</h1><br>
+      </div>
+        <div class="concept-description">
+          <p>
+          It is possible to see how an Html document is organized by       going to the webpage opening the developer tools and inspecting the elements and styles of the page.
+          </p>
+        </div>
+      </div>
+    <div class="concept">
+      <div class="concept-title">
+        <h1>Text Editors (for programming)</h1><br>
+      </div>
+        <div class="concept-description">
+        <p>
+         When writing code, programmers use special text editors
+          (like Sublime Text for example). These editors make the
+          programmer's life easier. For example, some text editors
+          will automatically generate a closing HTML tag when you
+          write an opening tag.
+          </p>
+        </div>
+      </div>
+    <div class="lesson">
+      <h2 id="lesson-3">Lesson 3: Adding CSS Style to HTML Structure</h2>
+        <div class="concept" id="lesson-3-1">
+          <div class="concept-title">
+            Avoiding Repetition
+          </div>
+            <div class="concept-description">
+          <p>
+          Avoiding repetition is important for a variety of reasons.
+          </p>
+        <p>
+          <b>Avoiding Errors:</b> When programmers <em>don't</em> avoid repetition, they will often have to do the same thing over and over. This may mean copy and pasting certain style attributes into many HTML elements or rewriting the same code (sometimes with minor differences) many times. This can lead to errors when the programmer decides to make a change to something. If they don't dilligently make that same change everywhere the repeated code appears, problems will arise.
+        </p>
+        <p>
+          <b>Consistency:</b> In this web page, I wanted every lesson to look the same. Instead of manually giving each one the same style, I was able to assign each lesson <span class="code">div</span> the same <span class="code">class</span> and then specify the style for that class in only one place! By avoiding repetion, it's now very easy for me to make changes to this style.
+        </p>
+      </div>
+    </div>
+    <div class="concept" id="lesson-3-2">
+      <div class="concept-title">
+       <h1>CSS</h1>
+        </div>
+          <div class="concept-description">
+          <p>
+          CSS stands for Cascading Style Sheets and they give programmers a way to control the style of related HTML elements. This is done by giving similar HTML elements the same <span class="code">class</span> name and then specifying the style that should apply to that class.
+        </p>
+      </div>
+    </div>
+  </div>
+</body>
+         
